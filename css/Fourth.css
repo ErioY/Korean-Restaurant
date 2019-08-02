@@ -1,0 +1,57 @@
+header .nav>li>a:hover{
+    background: url("../img/NAV_PURPLE.jpg") no-repeat;
+}
+.thirddiv{
+    margin-top: 80px;
+}
+.Fright{
+    width: 589px;
+    height: 653px;
+    float: left;
+    margin-left: 31px;
+}
+.Fright>img:nth-of-type(1){
+    margin: 16px 0 30px 0;
+}
+.Fright>div{
+    width: 589px;
+    height: 417px;
+    background: url("../img/xiexian3.png") no-repeat;
+    margin-top: 26px;
+    position: relative;
+}
+.Fright>div>img:nth-of-type(1){
+    position: absolute;
+    bottom: 0;
+    left: 19px;
+}
+.Fright>div>img:nth-of-type(2){
+    float: left;
+    margin: 20px 0 0 111px;
+}
+.Fright>div .content{
+    width: 386px;
+    height: 377px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    margin: 20px 19px 0 0;
+    float: right;
+}
+.Fright>div .content>div{
+    width: 330px;
+    height: 37px;
+    background: url("../img/jiantou.png") no-repeat;
+    margin: 20px 0 0 23px;
+}
+.Fright>div .content>div>a{
+    display: block;
+    color: #a652be;
+    font-size: 12px;
+    margin: 0 0 3px 17px;
+}
+.Fright>div .content>div>a:hover{
+    color: #d36e37;
+}
+.Fright>div .content>div>p{
+    font-size: 9px;
+}

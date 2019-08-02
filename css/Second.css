@@ -1,0 +1,154 @@
+header .nav li a:hover{
+    /* 光晕效果 */
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #180916, 0 0 70px #fff, 0 0 80px #fff, 0 0 100px #fff, 0 0 150px #fff;
+}
+section .left+div{
+    position: absolute;
+    top: 138px;
+}
+section .bottom{
+    position: relative;
+}
+section .bottom .secondright{
+    position: absolute;
+    top: 93px;
+    left:303px;
+}
+section .bottom .secondright img:nth-of-type(3){
+    position: absolute;
+    top: 64px;
+    right: 40px;
+}
+section .bottom .secondright img:nth-of-type(4){
+    position: absolute;
+    top: 54px;
+    right: 112px;
+}
+section .bottom .secondright img:nth-of-type(5){
+    margin: 26px 0 15px 0;
+}
+section .bottom .secondright .tv{
+    width: 337px;
+    height: 261px;
+    background-color: #5f6f0b;
+    position: relative;
+}
+section .bottom .secondright .tv .screen{
+    width: 322px;
+    height: 202px;
+    background-color: #000000;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+}
+section .bottom .secondright .tv .progress{
+    width: 322px;
+    height: 35px;
+    background: url("../img/green.png") no-repeat;
+    position: absolute;
+    bottom: 9px;
+    left: 8px;   
+}
+section .bottom .secondright .tv .progress div{
+    width: 14px;
+    height: 14px;
+    background: url("../img/block.png") no-repeat;
+    font-size: 4px;
+    text-align: center;
+    line-height: 14px;
+    margin: 11px 6px 0 9px;
+    border-radius: 3px;
+    float: left;
+    cursor: pointer;
+}
+section .bottom .secondright .tv .progress div:hover{
+    color: red;
+}
+section .bottom .secondright .tv .progress p{
+    font-size: 5px;
+    color: #8ca43c;
+    position: absolute;
+    top: 10px;
+    right: 128px; 
+}
+section .bottom .secondright .tv .progress .ctrl{
+    display: block;
+    width: 114px;
+    height: 4px;
+    color: #e0e1e1;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+section .bottom .secondright .tv .progress img:nth-of-type(1){
+    position: absolute;
+    bottom: 7px;
+    right: 12px;
+}
+section .bottom .secondright img:nth-of-type(6){
+    position: absolute;
+    top: 218px;
+    right: 25px;
+}
+section .bottom .secondright img:nth-of-type(7){
+    position: absolute;
+    top: 186px;
+    right: -11px;
+}
+section .bottom .secondright img:nth-of-type(8){
+    position: absolute;
+    top: 242px;
+    right: 217px;
+}
+section .bottom .secondright .CF{
+    width: 41px;
+    height: 89px;
+    position: absolute;
+    top: 388px;
+    right: 231px;
+}
+section .bottom .secondright a{
+    display: block;
+    width: 41px;
+    height: 13px;
+    background-color: #0e0e0e;
+    color: #ffffff;
+    font-size: 5px;
+    text-align: center;
+    line-height:13px;
+    margin-bottom: 6px;
+    border-radius: 4px;
+}
+section .bottom .secondright a:hover{
+    color: #d38837;
+}
+section .bottom .secondright img:nth-of-type(9){
+    margin-top: 25px;
+}
+section .bottom .secondright button{
+    width: 41px;
+    height: 41px;
+    border-radius: 20.5px;
+    border: none;
+    background-color: #000;
+    font-size: 18px;
+    color: #ffffff;
+}
+section .bottom .secondright button:nth-of-type(1){
+    position: absolute;
+    top: 530px;
+    right: 83px;
+}
+section .bottom .secondright button:nth-of-type(2){
+    position: absolute;
+    top: 606px;
+    right: 83px;
+}
+section .bottom .secondright button:hover{
+    color: #000;
+    background-color: #fff;
+}
+footer{
+    margin-top: 114px;
+}

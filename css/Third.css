@@ -1,0 +1,111 @@
+header .nav>li>a:hover{
+    color: #a49c95;
+    background: url('../img/NAV_BLUE.png') no-repeat;
+}
+section .bottom .left .thirddiv{
+    margin-top: 81px;
+}
+section .bottom .thirdright{
+    width: 620px;
+    height: 720px;
+    margin-right: 176px;
+    float: right;
+    position: relative;
+}
+section .bottom .thirdright img:nth-of-type(1){
+    margin: 16px 0 30px 0;
+}
+section .bottom .thirdright .menu{
+    width: 321px;
+    margin-top: 21px;
+}
+section .bottom .thirdright .menu li{
+    width: 98px;
+    float: left;
+}
+section .bottom .thirdright .menu li:nth-of-type(1),.bottom .thirdright .menu li:nth-of-type(2){
+    margin-right: 13px;
+}
+section .bottom .thirdright .menu a{
+    display: block;
+    height: 30px;
+    background: url("../img/xiexian.png") no-repeat;
+    font-size: 9px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 30px;
+}
+section .bottom .thirdright .menu a:hover{
+    color: #d36e37;
+}
+section .bottom .thirdright img:nth-of-type(3){
+    margin: 21px 0 0 3px;
+}
+section .bottom .thirdright hr{
+    width: 589px;
+    border: 1px #b8926e dotted;
+    margin-left: 0;
+}
+section .bottom .thirdright img:nth-of-type(4){
+    position: absolute;
+    top: 71px;
+    right: 85px;
+}
+section .bottom .thirdright img:nth-of-type(5){
+    position: absolute;
+    top: 29px;
+    right: -5px;
+}
+section .bottom .thirdright img:nth-of-type(6){
+    margin-top: 21px;
+    float: left;
+}
+section .bottom .thirdright .foodmenu{
+    width: 518px;
+    height: 396px;
+    float: right;
+}
+section .bottom .thirdright .foodmenu>div{
+    width: 248px;
+    height: 84px;
+    position: relative;
+}
+section .bottom .thirdright .foodmenu>div>img:nth-of-type(1){
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+section .bottom .thirdright .foodmenu>div button{
+    width: 13px;
+    height: 9px;
+    background: url("../img/orange.png") no-repeat;
+    border: none;
+    position: absolute;
+    left: 118px;
+    top: 60px;
+    cursor: pointer;
+}
+section .bottom .thirdright .foodmenu>div:nth-of-type(2n+1){
+    float: left;  
+    margin-bottom: 15px;
+}
+section .bottom .thirdright .foodmenu>div:nth-of-type(2n){
+    float: right;  
+    margin-bottom: 15px;
+}
+section .bottom .thirdright .foodmenu>div p{
+    font-size: 10px;
+    color: #1c8478;
+    position: absolute;
+    left: 138px;
+    top: 56px;
+    cursor: pointer;
+}
+section .bottom .thirdright .foodmenu>div p:hover{
+    color: #d36e37;
+}
+section .bottom .thirdright .foodmenu>div>img:nth-of-type(2){
+    position: absolute;
+    left: 137px;
+    top: 73px;
+}
